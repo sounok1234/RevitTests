@@ -1,0 +1,6 @@
+C:\Users\Sounok\source\repos\AutoAnnotation\AutoAnnotation\bin\Debug\AutoAnnotation.dll
+C:\Users\Sounok\source\repos\AutoAnnotation\AutoAnnotation\bin\Debug\AutoAnnotation.pdb
+C:\Users\Sounok\source\repos\AutoAnnotation\AutoAnnotation\obj\Debug\AutoAnnotation.csprojAssemblyReference.cache
+C:\Users\Sounok\source\repos\AutoAnnotation\AutoAnnotation\obj\Debug\AutoAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\Sounok\source\repos\AutoAnnotation\AutoAnnotation\obj\Debug\AutoAnnotation.dll
+C:\Users\Sounok\source\repos\AutoAnnotation\AutoAnnotation\obj\Debug\AutoAnnotation.pdb

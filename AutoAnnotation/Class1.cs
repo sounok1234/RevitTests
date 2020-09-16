@@ -25,8 +25,10 @@ namespace AutoAnnotation
             View view = doc.ActiveView;
             //TextNoteOptions options = new TextNoteOptions();
             ElementId typeId = doc.GetDefaultElementTypeId(ElementTypeGroup.TextNoteType);
-            int i = 1;
+            Collector co = new Collector();
+            //int i = 1;
 
+            int i = co.GetMaxValue(doc);
             IList<Reference> pickedObjs = uidoc.Selection.PickObjects(ObjectType.Element, "Select Multiple Elements");
             List<ElementId> ids = (from Reference r in pickedObjs select r.ElementId).ToList();
             using (Transaction tx = new Transaction(doc))

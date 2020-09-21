@@ -1,0 +1,6 @@
+C:\Users\Sounok\source\repos\PreviousView\PreviousView\bin\Debug\PreviousView.dll
+C:\Users\Sounok\source\repos\PreviousView\PreviousView\bin\Debug\PreviousView.pdb
+C:\Users\Sounok\source\repos\PreviousView\PreviousView\obj\Debug\PreviousView.csprojAssemblyReference.cache
+C:\Users\Sounok\source\repos\PreviousView\PreviousView\obj\Debug\PreviousView.csproj.CoreCompileInputs.cache
+C:\Users\Sounok\source\repos\PreviousView\PreviousView\obj\Debug\PreviousView.dll
+C:\Users\Sounok\source\repos\PreviousView\PreviousView\obj\Debug\PreviousView.pdb
